@@ -127,7 +127,7 @@ audio {
     border-radius: 50%;
     position: absolute;
     top: 44%;
-    left: 48.5%;
+    left: 46%;
     transform: scale(0);
     -webkit-transform: scale(0) ;
 }
@@ -151,7 +151,7 @@ audio {
     border-radius: 50%;
     position: absolute;
     top: 72%;
-    left: 48.8%;
+    left: 46%;
     transform: scale(0);
     -webkit-transform: scale(0);
 }
